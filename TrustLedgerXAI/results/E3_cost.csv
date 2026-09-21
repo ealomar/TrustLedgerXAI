@@ -1,0 +1,5 @@
+artifacts,attributions,artifact_bytes_median,canonicalise_us_median,canonicalise_us_iqr,sha256_us_median,sha256_us_iqr,world_state_key_bytes,world_state_value_bytes
+real (682 artifacts),99,3923,244.9,235.4-255.8,3.14,2.99-3.32,19,145
+synthetic,28,1140,90.6,88.4-93.4,1.14,1.11-1.19,19,145
+synthetic,250,7661,634.7,617.0-660.1,5.97,5.67-6.08,19,145
+synthetic,500,15001,1261.8,1201.6-1292.4,11.08,10.13-11.54,19,145

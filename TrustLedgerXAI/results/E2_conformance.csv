@@ -1,0 +1,10 @@
+test,expected,observed,pass
+Integrity: artifact altered by one ULP after anchoring,verification fails,verification fails,True
+Non-substitution: re-anchor under an existing key,rejected at endorsement,rejected at endorsement,True
+Non-substitution: another assessment's artifact presented for this key,verification fails,verification fails,True
+Trust distribution: generating organisation self-endorses,rejected at endorsement,rejected at endorsement,True
+"Concurrent first-writes to one key (200 races), MVCC validation on","first-ordered commits, second invalid","first-ordered commits, second invalid",True
+Same race with read-set validation disabled (chaincode check only),non-guarantee: last write wins,non-guarantee: last write wins,True
+"Generator controls a second endorsing organisation, policy unaware of it",non-guarantee: accepted,non-guarantee: accepted,True
+"Same, policy excludes organisations under the generator's control",rejected,rejected,True
+"Fabricated rationale anchored at decision time, unbound verification",non-guarantee: verification passes,non-guarantee: verification passes,True
