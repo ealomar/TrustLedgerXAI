@@ -1,0 +1,113 @@
+variant,assessment,assessment_id,orig_score,cf_score,attainable,items_changed,l1_mad,changed
+all 28 items,0,AAER-2285-2014,0.9301,0.8605,True,3.0,28.611,prcc_f;txp;csho
+all 28 items,1,AAER-2751-2014,0.9274,0.8527,True,1.0,12.538,csho
+all 28 items,2,AAER-201794-2014,0.9258,0.8629,True,3.0,1.434,prcc_f;pstk;sstk
+all 28 items,3,AAER-171067-2014,0.9221,0.8577,True,1.0,4.53,csho
+all 28 items,4,AAER-221616-2014,0.9134,0.8612,True,2.0,4.167,prcc_f;sstk
+all 28 items,5,AAER-277846-2014,0.9131,0.8599,True,1.0,5.086,csho
+all 28 items,6,AAER-238616-2014,0.9114,0.8593,True,2.0,3.414,prcc_f;ivao
+all 28 items,7,AAER-157855-2014,0.9064,0.8583,True,1.0,8.745,prcc_f
+all 28 items,8,AAER-64410-2014,0.9049,0.8618,True,1.0,9.986,prcc_f
+all 28 items,9,AAER-6066-2014,0.9048,0.8621,True,1.0,25.016,prcc_f
+all 28 items,10,AAER-186858-2014,0.9043,0.8506,True,1.0,3.65,prcc_f
+all 28 items,11,AAER-174185-2014,0.9036,0.8609,True,1.0,0.894,csho
+all 28 items,12,AAER-165993-2014,0.9019,0.8623,True,1.0,9.172,prcc_f
+all 28 items,13,AAER-14078-2014,0.901,0.8596,True,1.0,0.131,prcc_f
+all 28 items,14,AAER-171007-2014,0.8994,0.8586,True,1.0,4.814,ceq
+all 28 items,15,AAER-100590-2014,0.8991,0.856,True,1.0,2.225,prcc_f
+all 28 items,16,AAER-145552-2014,0.8985,0.8556,True,1.0,3.259,csho
+all 28 items,17,AAER-12978-2014,0.8974,0.842,True,1.0,9.332,prcc_f
+all 28 items,18,AAER-21451-2014,0.8913,0.8608,True,1.0,1.161,prcc_f
+all 28 items,19,AAER-20530-2014,0.8909,0.8582,True,1.0,7.099,prcc_f
+all 28 items,20,AAER-10984-2014,0.8892,0.835,True,1.0,0.688,prcc_f
+all 28 items,21,AAER-185584-2014,0.8878,0.8609,True,1.0,0.3,csho
+all 28 items,22,AAER-209382-2014,0.8865,0.8537,True,1.0,0.819,prcc_f
+all 28 items,23,AAER-6771-2014,0.8865,0.8632,True,1.0,1.367,ivao
+all 28 items,24,AAER-101317-2014,0.8864,0.8606,True,2.0,1.173,prcc_f;ivst
+all 28 items,25,AAER-101310-2014,0.8856,0.8598,True,1.0,13.979,prcc_f
+all 28 items,26,AAER-63919-2014,0.8848,0.8513,True,1.0,3.819,prcc_f
+all 28 items,27,AAER-3221-2014,0.8848,0.8616,True,2.0,10.249,prcc_f;pstk
+all 28 items,28,AAER-142953-2014,0.8842,0.8595,True,1.0,0.003,ivao
+all 28 items,29,AAER-143974-2014,0.8828,0.8587,True,2.0,1.486,csho;pstk
+all 28 items,30,AAER-147988-2014,0.8813,0.8564,True,1.0,0.703,prcc_f
+all 28 items,31,AAER-7637-2014,0.8812,0.8551,True,1.0,2.675,txp
+all 28 items,32,AAER-18086-2014,0.8809,0.863,True,1.0,0.897,txp
+all 28 items,33,AAER-18872-2014,0.8798,0.8615,True,2.0,0.186,ivao;pstk
+all 28 items,34,AAER-222111-2014,0.8798,0.8479,True,1.0,0.641,prcc_f
+all 28 items,35,AAER-18487-2014,0.8788,0.8575,True,1.0,0.211,prcc_f
+all 28 items,36,AAER-114524-2014,0.878,0.8611,True,2.0,0.002,invt;pstk
+all 28 items,37,AAER-66708-2014,0.8759,0.8589,True,1.0,1.291,txt
+all 28 items,38,AAER-260774-2014,0.8735,0.8621,True,1.0,0.628,prcc_f
+all 28 items,39,AAER-203890-2014,0.8726,0.8638,False,,,
+all 28 items,40,AAER-253759-2014,0.8705,0.8619,True,1.0,0.588,txp
+all 28 items,41,AAER-100873-2014,0.8705,0.8592,True,2.0,0.002,pstk;ivao
+all 28 items,42,AAER-100699-2014,0.8693,0.8632,True,1.0,0.231,prcc_f
+all 28 items,43,AAER-100095-2014,0.8691,0.8623,True,2.0,0.003,ivst;ivao
+all 28 items,44,AAER-19744-2014,0.8689,0.8597,True,1.0,0.71,ivao
+all 28 items,45,AAER-101352-2014,0.8688,0.8617,True,1.0,0.339,prcc_f
+all 28 items,46,AAER-183684-2014,0.8688,0.862,True,1.0,0.086,che
+all 28 items,47,AAER-63645-2014,0.8681,0.8621,True,1.0,0.017,ivao
+all 28 items,48,AAER-147242-2014,0.8665,0.8599,True,1.0,0.002,pstk
+all 28 items,49,AAER-164266-2014,0.8665,0.8612,True,1.0,0.002,pstk
+all 28 items,50,AAER-177287-2014,0.8664,0.8627,True,1.0,0.094,csho
+all 28 items,51,AAER-18636-2014,0.8658,0.8626,True,1.0,0.002,pstk
+all 28 items,52,AAER-28320-2014,0.8656,0.8544,True,1.0,0.279,ivao
+all 28 items,53,AAER-220942-2014,0.8651,0.8507,True,1.0,0.0,txp
+all 28 items,54,AAER-100363-2014,0.8641,0.861,True,1.0,0.002,pstk
+all 28 items,55,AAER-1690-2014,0.8633,0.8632,True,1.0,4.585,prcc_f
+"financial-statement items only (excl. prcc_f, csho)",0,AAER-2285-2014,0.9301,0.9054,False,,,
+"financial-statement items only (excl. prcc_f, csho)",1,AAER-2751-2014,0.9274,0.9167,False,,,
+"financial-statement items only (excl. prcc_f, csho)",2,AAER-201794-2014,0.9258,0.8965,False,,,
+"financial-statement items only (excl. prcc_f, csho)",3,AAER-171067-2014,0.9221,0.8518,True,1.0,6.669,sale
+"financial-statement items only (excl. prcc_f, csho)",4,AAER-221616-2014,0.9134,0.8615,True,2.0,18.238,sstk;ivao
+"financial-statement items only (excl. prcc_f, csho)",5,AAER-277846-2014,0.9131,0.8624,True,3.0,5.284,ivao;re;ivst
+"financial-statement items only (excl. prcc_f, csho)",6,AAER-238616-2014,0.9114,0.8876,False,,,
+"financial-statement items only (excl. prcc_f, csho)",7,AAER-157855-2014,0.9064,0.8765,False,,,
+"financial-statement items only (excl. prcc_f, csho)",8,AAER-64410-2014,0.9049,0.8602,True,3.0,25.727,rect;pstk;ap
+"financial-statement items only (excl. prcc_f, csho)",9,AAER-6066-2014,0.9048,0.8915,False,,,
+"financial-statement items only (excl. prcc_f, csho)",10,AAER-186858-2014,0.9043,0.8157,True,1.0,12.204,che
+"financial-statement items only (excl. prcc_f, csho)",11,AAER-174185-2014,0.9036,0.8583,True,1.0,2.806,ceq
+"financial-statement items only (excl. prcc_f, csho)",12,AAER-165993-2014,0.9019,0.8607,True,3.0,1.204,txp;ivao;ivst
+"financial-statement items only (excl. prcc_f, csho)",13,AAER-14078-2014,0.901,0.8764,False,,,
+"financial-statement items only (excl. prcc_f, csho)",14,AAER-171007-2014,0.8994,0.8586,True,1.0,4.814,ceq
+"financial-statement items only (excl. prcc_f, csho)",15,AAER-100590-2014,0.8991,0.907,False,,,
+"financial-statement items only (excl. prcc_f, csho)",16,AAER-145552-2014,0.8985,0.8626,True,1.0,7.225,sstk
+"financial-statement items only (excl. prcc_f, csho)",17,AAER-12978-2014,0.8974,0.8724,False,,,
+"financial-statement items only (excl. prcc_f, csho)",18,AAER-21451-2014,0.8913,0.8634,False,,,
+"financial-statement items only (excl. prcc_f, csho)",19,AAER-20530-2014,0.8909,0.8645,False,,,
+"financial-statement items only (excl. prcc_f, csho)",20,AAER-10984-2014,0.8892,0.8643,False,,,
+"financial-statement items only (excl. prcc_f, csho)",21,AAER-185584-2014,0.8878,0.8589,True,1.0,1.052,che
+"financial-statement items only (excl. prcc_f, csho)",22,AAER-209382-2014,0.8865,0.8613,True,1.0,0.786,sstk
+"financial-statement items only (excl. prcc_f, csho)",23,AAER-6771-2014,0.8865,0.8632,True,1.0,1.367,ivao
+"financial-statement items only (excl. prcc_f, csho)",24,AAER-101317-2014,0.8864,0.8632,True,1.0,6.343,txp
+"financial-statement items only (excl. prcc_f, csho)",25,AAER-101310-2014,0.8856,0.8722,False,,,
+"financial-statement items only (excl. prcc_f, csho)",26,AAER-63919-2014,0.8848,0.8601,True,2.0,1.201,txp;ivao
+"financial-statement items only (excl. prcc_f, csho)",27,AAER-3221-2014,0.8848,0.8706,False,,,
+"financial-statement items only (excl. prcc_f, csho)",28,AAER-142953-2014,0.8842,0.8595,True,1.0,0.003,ivao
+"financial-statement items only (excl. prcc_f, csho)",29,AAER-143974-2014,0.8828,0.8568,True,1.0,3.088,cogs
+"financial-statement items only (excl. prcc_f, csho)",30,AAER-147988-2014,0.8813,0.8618,True,2.0,0.764,txp;ivao
+"financial-statement items only (excl. prcc_f, csho)",31,AAER-7637-2014,0.8812,0.8551,True,1.0,2.675,txp
+"financial-statement items only (excl. prcc_f, csho)",32,AAER-18086-2014,0.8809,0.863,True,1.0,0.897,txp
+"financial-statement items only (excl. prcc_f, csho)",33,AAER-18872-2014,0.8798,0.8615,True,2.0,0.186,ivao;pstk
+"financial-statement items only (excl. prcc_f, csho)",34,AAER-222111-2014,0.8798,0.8424,True,1.0,36.773,ivao
+"financial-statement items only (excl. prcc_f, csho)",35,AAER-18487-2014,0.8788,0.8615,True,2.0,1.427,cogs;pstk
+"financial-statement items only (excl. prcc_f, csho)",36,AAER-114524-2014,0.878,0.8611,True,2.0,0.002,invt;pstk
+"financial-statement items only (excl. prcc_f, csho)",37,AAER-66708-2014,0.8759,0.8589,True,1.0,1.291,txt
+"financial-statement items only (excl. prcc_f, csho)",38,AAER-260774-2014,0.8735,0.8606,True,1.0,1.386,txp
+"financial-statement items only (excl. prcc_f, csho)",39,AAER-203890-2014,0.8726,0.864,False,,,
+"financial-statement items only (excl. prcc_f, csho)",40,AAER-253759-2014,0.8705,0.8619,True,1.0,0.588,txp
+"financial-statement items only (excl. prcc_f, csho)",41,AAER-100873-2014,0.8705,0.8592,True,2.0,0.002,pstk;ivao
+"financial-statement items only (excl. prcc_f, csho)",42,AAER-100699-2014,0.8693,0.8632,True,2.0,1.058,ceq;ivst
+"financial-statement items only (excl. prcc_f, csho)",43,AAER-100095-2014,0.8691,0.8623,True,2.0,0.003,ivst;ivao
+"financial-statement items only (excl. prcc_f, csho)",44,AAER-19744-2014,0.8689,0.8597,True,1.0,0.71,ivao
+"financial-statement items only (excl. prcc_f, csho)",45,AAER-101352-2014,0.8688,0.862,True,1.0,4.847,ivao
+"financial-statement items only (excl. prcc_f, csho)",46,AAER-183684-2014,0.8688,0.862,True,1.0,0.086,che
+"financial-statement items only (excl. prcc_f, csho)",47,AAER-63645-2014,0.8681,0.8621,True,1.0,0.017,ivao
+"financial-statement items only (excl. prcc_f, csho)",48,AAER-147242-2014,0.8665,0.8599,True,1.0,0.002,pstk
+"financial-statement items only (excl. prcc_f, csho)",49,AAER-164266-2014,0.8665,0.8612,True,1.0,0.002,pstk
+"financial-statement items only (excl. prcc_f, csho)",50,AAER-177287-2014,0.8664,0.8619,True,1.0,0.577,txp
+"financial-statement items only (excl. prcc_f, csho)",51,AAER-18636-2014,0.8658,0.8626,True,1.0,0.002,pstk
+"financial-statement items only (excl. prcc_f, csho)",52,AAER-28320-2014,0.8656,0.8544,True,1.0,0.279,ivao
+"financial-statement items only (excl. prcc_f, csho)",53,AAER-220942-2014,0.8651,0.8507,True,1.0,0.0,txp
+"financial-statement items only (excl. prcc_f, csho)",54,AAER-100363-2014,0.8641,0.861,True,1.0,0.002,pstk
+"financial-statement items only (excl. prcc_f, csho)",55,AAER-1690-2014,0.8633,0.8946,False,,,

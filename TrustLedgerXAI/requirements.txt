@@ -1,0 +1,15 @@
+# Exact versions used for the reported results (seed 20260913).
+# scikit-learn must be pinned: final_year.joblib is unpickled with it, and
+# commitments.py reads internal attributes (_predictors, _baseline_prediction).
+numpy==2.4.4
+pandas==3.0.2
+scikit-learn==1.8.0
+shap==0.52.0
+imbalanced-learn==0.14.2
+joblib==1.5.3
+matplotlib==3.10.9
+rfc8785==0.1.4
+lightgbm==4.7.0      # Appendix A, attempt 2 only
+# Cross-version check (Table 16) repeats steps 4 in a second environment with:
+#   shap==0.48.0
+# Cross-implementation check (Table 10) needs Node.js 22 with canonicalize@5.0.0

@@ -1,0 +1,4 @@
+variant,legacy_commitment_changes,revised_commitment_changes,firm_years_scored_differently,flag_set_changes
+Temporal-branch baseline prediction shifted by 0.5,False,True,5627,0
+Missing-value routing flipped in every temporal split,False,True,0,0
+Anomaly-branch fusion weight set to zero,False,True,5627,31

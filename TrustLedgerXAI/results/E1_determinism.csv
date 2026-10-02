@@ -1,0 +1,9 @@
+set,n,serialisation,reordered,text_roundtrip,ieee754_roundtrip,one_ulp_control
+real,682,JCS / RFC 8785,100.0,100.0,100.0,0.0
+real,682,Sorted-key JSON,100.0,100.0,100.0,0.0
+real,682,Unsorted JSON,0.0,100.0,100.0,0.0
+real,682,"Sorted keys, rounded to 12 dp",100.0,100.0,100.0,100.0
+synthetic,200,JCS / RFC 8785,100.0,100.0,100.0,0.0
+synthetic,200,Sorted-key JSON,100.0,100.0,100.0,0.0
+synthetic,200,Unsorted JSON,0.0,100.0,100.0,0.0
+synthetic,200,"Sorted keys, rounded to 12 dp",100.0,100.0,100.0,100.0
