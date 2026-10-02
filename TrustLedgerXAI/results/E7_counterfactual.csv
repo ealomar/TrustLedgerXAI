@@ -1,3 +1,0 @@
-variant,test_year,flagged,tau,attainable,attainable_pct,median_items_changed,max_items_changed,median_l1_mad,median_margin_below_tau,c_max,quantiles
-all 28 items,2014,56,0.8633,55,98.2,1.0,3,0.897,0.0034,6,41
-"financial-statement items only (excl. prcc_f, csho)",2014,56,0.8633,40,71.4,1.0,3,1.055,0.0022,6,41

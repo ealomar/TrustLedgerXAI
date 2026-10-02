@@ -1,5 +1,0 @@
-set,node_version,serialisation,n,agree,agree_pct,artifacts_with_divergent_floats,of_which_disagreed
-real,v22.22.2,JCS/RFC8785 (rfc8785 vs canonicalize),682,682,100.0,,
-real,v22.22.2,sorted-key JSON,682,0,0.0,682,682
-stress,v22.22.2,JCS/RFC8785 (rfc8785 vs canonicalize),200,200,100.0,,
-stress,v22.22.2,sorted-key JSON,200,0,0.0,200,200

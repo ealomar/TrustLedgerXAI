@@ -1,3 +1,0 @@
-property,legacy,rfc6962
-"Root of [a,b,c] equals root of [a,b,c,c]",True,False
-Internal nodes can be presented as leaves with the same root,True,False

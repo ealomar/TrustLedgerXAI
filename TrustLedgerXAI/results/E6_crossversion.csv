@@ -1,5 +1,0 @@
-mode,python,shap,numpy,sklearn,artifacts,bit_exact,max_abs_diff,max_ulp_diff
-batch,3.12.3,0.52.0,2.4.4,1.8.0,56,56,0.000e+00,0
-batch,3.12.3,0.48.0,2.4.4,1.8.0,56,56,0.000e+00,0
-single,3.12.3,0.52.0,2.4.4,1.8.0,56,56,0.000e+00,0
-single,3.12.3,0.48.0,2.4.4,1.8.0,56,56,0.000e+00,0

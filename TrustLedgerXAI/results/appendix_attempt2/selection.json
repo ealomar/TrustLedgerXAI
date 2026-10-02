@@ -1,4 +1,0 @@
-{
- "selected": "raw+scaled|hgb-reg|recency+censor",
- "rule": "max dev mean NDCG@1%; ties within 0.005 -> higher dev AUC"
-}

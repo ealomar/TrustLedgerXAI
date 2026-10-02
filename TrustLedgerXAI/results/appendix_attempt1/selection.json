@@ -1,5 +1,0 @@
-{
- "fused": "single-regularised|raw+scaled",
- "rusboost": "rus-1000-leaf5-lr0.1",
- "criterion": "mean per-year AUC 1998-2002"
-}
